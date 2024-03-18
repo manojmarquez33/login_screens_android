@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/Login Screens/Login screen 1/app/src/main/res/layout/activity_main.xml" value="0.19895833333333332" />
+        <entry key="..\:/Projects/Android/Login Screens/Login screen 1/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable-v24/bg_wave.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable-v24/round_bg.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/bg_edittext.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/bg_mail.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/button4_bg.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/button5_bg.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/button_round_bg.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/ic_email2.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/ic_email4.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/ic_key.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/ic_lock2.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/drawable/round_white_border.xml" value="0.1405" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/layout-w1240dp/activity_login2.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/layout/activity_log_in2.xml" value="0.22" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/layout/activity_log_in3.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/layout/activity_login2.xml" value="0.19895833333333332" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/layout/activity_login4.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/layout/activity_login5.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/XML Design files/Loginscreen1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Projects/Loginscreen1/app/src/main/res/drawable-v24/bg_wave.xml" value="0.136" />
+        <entry key="..\:/Projects/Loginscreen1/app/src/main/res/drawable-v24/round_bg.xml" value="0.136" />
+        <entry key="..\:/Projects/Loginscreen1/app/src/main/res/drawable-v24/round_border.xml" value="0.136" />
+        <entry key="..\:/Projects/Loginscreen1/app/src/main/res/drawable/ic_email.xml" value="0.136" />
+        <entry key="..\:/Projects/Loginscreen1/app/src/main/res/drawable/ic_lock.xml" value="0.136" />
+        <entry key="..\:/Projects/Loginscreen1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
